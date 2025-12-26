@@ -26,7 +26,7 @@ url                      : https://paslaptyje.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "paslaptyje.github.io/_images/logo.jpeg"
+logo                     : "assets/images/logo.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Han SeungMin"
-  avatar           : "paslaptyje.github.io/_images/logo.jpeg"
+  avatar           : "assets/images/logo.jpeg"
   bio              : "CS, AI, PHM, CBM"
   location         : "Republic of Korea"
   email            :
