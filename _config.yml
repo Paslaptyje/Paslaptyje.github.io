@@ -342,7 +342,7 @@ defaults:
 collections:
   PHM:
     output: true
-    permalink: /phm/:name/
+    permalink: /PHM/:name/
   analysis:
     output: true
     permalink: /analysis/:name/
